@@ -76,17 +76,6 @@ export const formData = {
       _uid: "7f885969-f8ba-40b9-0d57bc9c6a8d",
     },
     {
-      component: "textarea",
-      label: "Description Filter",
-      _uid: "f61233e8-40b9-bf5d-0d57bc9c6a8d",
-    },
-    {
-      component: "text",
-      label: "Some more text filter",
-      type: "text",
-      _uid: "f61233e8-9c14-7d7f220c6020",
-    },
-    {
       component: "radio",
       label: "Radio Buttons",
       type: "radio",
