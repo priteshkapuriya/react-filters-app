@@ -39,7 +39,7 @@ const Form = ({ formData, filterNumberData }) => {
   const checkAppliedFilters = () => {
     let totalCount = 0;
     Object.values(values).forEach((item) => {
-      if (item !== "") {
+      if (item.trim() !== "") {
         totalCount++;
       }
     });
