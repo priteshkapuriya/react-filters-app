@@ -1,0 +1,10 @@
+.checkbox-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+input[type="checkbox"] {
+  vertical-align: middle;
+}
+.checkboxLabel {
+  margin-right: 10px;
+}

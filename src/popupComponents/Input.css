@@ -1,0 +1,9 @@
+.inputContainer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+input[type="text"] {
+  width: 200px;
+  margin-left: 10px;
+  height: 20px;
+}

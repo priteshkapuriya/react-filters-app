@@ -1,0 +1,8 @@
+.textareaContainer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+textarea {
+  width: 200px;
+  margin-left: 10px;
+}
